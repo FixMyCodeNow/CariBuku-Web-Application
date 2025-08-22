@@ -1,2 +1,6 @@
 In this project, each file inside the components and pages directories must be placed within its own dedicated folder. 
-For example, the file Navbar.jsx should be stored inside a folder named Navbar. This structure is required because the import paths in the codebase are configured to reference component files through their respective folders. Without following this convention, the application will not run properly, as the module imports would break. Therefore, when creating new components or pages, developers are expected to first create a folder with the corresponding name and then place the file inside it. This organizational approach ensures consistency, readability, and proper functionality of the project.
+For example, the file Navbar.jsx should be stored inside a folder named Navbar. 
+This structure is required because the import paths in the codebase are configured to reference component files through their respective folders. 
+Without following this convention, the application will not run properly, as the module imports would break. 
+Therefore, when creating new components or pages, developers are expected to first create a folder with the corresponding name and then place the file inside it. 
+This organizational approach ensures consistency, readability, and proper functionality of the project.
