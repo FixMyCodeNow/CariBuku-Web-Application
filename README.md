@@ -1,4 +1,4 @@
-###📚 CariBuku
+###CariBuku
 CariBuku is a web-based application designed to simplify book discovery through a clean and lightweight interface. Built with React and Vite, the project emphasizes speed, scalability, and readability in both its codebase and user experience.
 
 ✨ Features
