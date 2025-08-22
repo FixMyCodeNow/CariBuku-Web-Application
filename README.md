@@ -28,10 +28,9 @@ cd CariBuku
 
 
 Install dependencies:
-
--npm install
--Run the development server:
--npm run dev
+- npm install
+- Run the development server:
+- npm run dev
 
 Open in browser: http://localhost:5173
 
